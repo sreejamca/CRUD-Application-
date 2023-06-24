@@ -1,0 +1,34 @@
+.main{
+    background-color:white;
+}
+#crtbtn{
+   background-color:green;
+   color:white;
+   
+}
+#delbtn{
+    background-color:red;
+    color:white;
+    
+}
+#updtbtn{
+    background-color:blue;
+    color:white;
+    
+}
+.buttonGroup{
+    
+    text-align: center;
+}
+
+#img{
+    width:100%;
+    height:100%;
+}
+.container{
+    border: 2px solid green;
+    padding:5px;
+}
+h1{
+    text-align: center;
+}
