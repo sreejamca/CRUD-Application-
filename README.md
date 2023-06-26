@@ -13,9 +13,9 @@
 <!-- Features -->
 ### :dart: Features
 
-- User Interface
-- Create
-- Read
+-User Interface
+-Create
+-Read
 -Update
 -Delete:
 
@@ -37,7 +37,7 @@ This project uses npm as package manager
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
+Install CRUD Apllication project with npm
 npm i bootstrap
 npm i jquery
 npm i jason--server
